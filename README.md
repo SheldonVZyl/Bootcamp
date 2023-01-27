@@ -1,2 +1,0 @@
-# Bootcamp
-_config.yml
